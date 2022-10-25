@@ -1,0 +1,1 @@
+# pythob-ile-manav-otomasyonu
